@@ -3,10 +3,6 @@
     Senior AI Full Stack Developer
 </h1>
 
-<p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
-</p>
-
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
